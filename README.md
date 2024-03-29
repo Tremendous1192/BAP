@@ -1,3 +1,13 @@
+# Fork of Bayesian Analysis with Python (Second edition)
+Osvaldo Martin 著, 金子 武久 訳「Pythonによるベイズ統計モデリング」の学習リポジトリ.\
+URL: https://www.kyoritsu-pub.co.jp/book/b10003944.html \
+発売日: 2018/06/26\
+ISBN: 9784320113374\
+
+2024年3月29日時点のPyMC5バージョンで書き直す.
+
+
+
 # Bayesian Analysis with Python (Second edition)
 
 This is the code repository for [Bayesian Analysis with Python](https://www.packtpub.com/big-data-and-business-intelligence/bayesian-analysis-python-second-edition), published by Packt. It contains all the code necessary to work through the book from start to finish. You can find the code from the first edition in the folder `first_edition`
